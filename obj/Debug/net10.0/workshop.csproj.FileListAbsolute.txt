@@ -1,0 +1,14 @@
+C:\Users\s37358\source\repos\git1\workshop\bin\Debug\net10.0\workshop.exe
+C:\Users\s37358\source\repos\git1\workshop\bin\Debug\net10.0\workshop.deps.json
+C:\Users\s37358\source\repos\git1\workshop\bin\Debug\net10.0\workshop.runtimeconfig.json
+C:\Users\s37358\source\repos\git1\workshop\bin\Debug\net10.0\workshop.dll
+C:\Users\s37358\source\repos\git1\workshop\bin\Debug\net10.0\workshop.pdb
+C:\Users\s37358\source\repos\git1\workshop\obj\Debug\net10.0\workshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37358\source\repos\git1\workshop\obj\Debug\net10.0\workshop.AssemblyInfoInputs.cache
+C:\Users\s37358\source\repos\git1\workshop\obj\Debug\net10.0\workshop.AssemblyInfo.cs
+C:\Users\s37358\source\repos\git1\workshop\obj\Debug\net10.0\workshop.csproj.CoreCompileInputs.cache
+C:\Users\s37358\source\repos\git1\workshop\obj\Debug\net10.0\workshop.dll
+C:\Users\s37358\source\repos\git1\workshop\obj\Debug\net10.0\refint\workshop.dll
+C:\Users\s37358\source\repos\git1\workshop\obj\Debug\net10.0\workshop.pdb
+C:\Users\s37358\source\repos\git1\workshop\obj\Debug\net10.0\workshop.genruntimeconfig.cache
+C:\Users\s37358\source\repos\git1\workshop\obj\Debug\net10.0\ref\workshop.dll
