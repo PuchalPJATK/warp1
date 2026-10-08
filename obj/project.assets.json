@@ -8,24 +8,32 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\s37358\\.nuget\\packages\\": {}
+    "C:\\Users\\Puchal\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s37358\\source\\repos\\git1\\workshop\\workshop.csproj",
+      "projectUniqueName": "C:\\Users\\Puchal\\Documents\\github\\warp1\\workshop.csproj",
       "projectName": "workshop",
-      "projectPath": "C:\\Users\\s37358\\source\\repos\\git1\\workshop\\workshop.csproj",
-      "packagesPath": "C:\\Users\\s37358\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s37358\\source\\repos\\git1\\workshop\\obj\\",
+      "projectPath": "C:\\Users\\Puchal\\Documents\\github\\warp1\\workshop.csproj",
+      "packagesPath": "C:\\Users\\Puchal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Puchal\\Documents\\github\\warp1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\s37358\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Puchal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
