@@ -10,3 +10,4 @@ dotnet run
 
 ## Kontakt
 Zespół: Warsztat Programisty
+Autor: Student
