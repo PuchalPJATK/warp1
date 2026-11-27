@@ -10,7 +10,7 @@ on:
             - main
 env:
     DOTNET_VERSION: 10.0.x
-    PROJECT_PATH: ./workshop.csproj
+    PROJECT_PATH: ./src/ProjectThatDoesNotExist/Project.csproj
 
 jobs:
     build:
